@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Vikram Kumar",
+  "description": "A project that does something awesome",
+  "keywords": [ "Node.js", "freecodecamp", "html" ],
+  "license": "MIT",
+  "version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0",
 		"package.json": "^2.0.1"
